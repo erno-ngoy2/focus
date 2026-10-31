@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="tile_focus">Focus</string>
+    <string name="tile_hotspot">Hotspot</string>
+</resources>

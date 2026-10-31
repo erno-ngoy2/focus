@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Focus" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/window_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:colorBackground">@color/focus_bg</item>
+    </style>
+</resources>
